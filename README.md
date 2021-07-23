@@ -2,7 +2,7 @@
 
 HetEmotionNet: Two-Stream Heterogeneous Graph Recurrent Neural Network for Multi-modal Emotion Recognition
 
-![model_architecture](model.pdf)
+![model_architecture](model.png)
 
 # Datasets
 
